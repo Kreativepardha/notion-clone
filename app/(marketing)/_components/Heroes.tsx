@@ -18,6 +18,8 @@ export const Heroes = () => {
                 <div className="relative h-[400px] w-[400px] hidden md:block">
                     <div className="">
                         <input placeholder="heeeeeeeeeeeeeeeeeeeeeeeeeeeee" ></input>
+                        <input placeholder="heeeeeeeeeeeeeeeeeeeeeeeeeeeee" ></input>
+                        <input placeholder="heeeeeeeeeeeeeeeeeeeeeeeeeeeee" ></input>
                     </div>
                     <Image src="/pic2dark.svg" fill className="object-contain dark:hidden" alt="Documents" />
                     <Image src="/pic2.svg" fill className="object-contain hidden dark:block " alt="Documents" />
